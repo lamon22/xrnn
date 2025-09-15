@@ -1,0 +1,13 @@
+The recordings are divided in this way:
+    1 - 20: right, prune?
+    21 - 40: left, prune?
+    41 - 60: right, pick?
+    61 - 80: left, pick?
+    81 - 100: right, destroy?
+    101 - 120: left, destroy?
+    121 - 150: right, idle
+    151 - 180: left, idle
+    181 - 189: right, idle
+    190 - 198: left, idle
+
+ilde actually means doing kind of random things and also static poses from other gestures

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/71.0.0/Example Scenes/PoseExamples.unity"
+    guid: 4fe358b21fe17764db89a9ab9f202327
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/71.0.0/Example Scenes/GestureExamples.unity"
+    guid: 4ee2a082a0e621b49ab01667c66f1599
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/71.0.0/Feature Scenes/DebugPose.unity"
+    guid: 0c21dff7998be3b48bdbf4d868aa7710
+  - enabled: 0
+    path: Assets/Scenes/GestureTest (Old).unity
+    guid: b206bdade674d4c15b515a28ccc69253
+  - enabled: 1
+    path: Assets/Scenes/SetupIPScene.unity
+    guid: b76920dcacf9341e5868b161e0a396a9
+  - enabled: 1
+    path: Assets/Scenes/GestureRecorder.unity
+    guid: ca902133b0d94474bac69c743bd9d299
+  - enabled: 1
+    path: Assets/Scenes/MultimodalScene.unity
+    guid: cbf3ab75edf3d4112929bb66316817e1
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/71.0.0/Example Scenes/ComprehensiveRigExample.unity"
+    guid: 2efe93cb8972cae439bfba2dcd4165f0
+  - enabled: 1
+    path: Assets/Scenes/FinalEyeGesture.unity
+    guid: e7963b8c7459049fe9b1e507fee51825
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a3e479859b58544a0854257ffe67b7d8,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c3e4ba47989144b859700396cdd9d3df,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ae4389659752b474095521142acffa23,
+      type: 2}
