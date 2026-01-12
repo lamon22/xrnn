@@ -1,5 +1,11 @@
 # XRNN: VR Neural Network Visualization
 
+<div align="center">
+  <img src="Assets/xrnn.png" alt="XRNN VR Demo" width="100%">
+</div>
+
+<br>
+
 **XRNN** is a Virtual Reality application designed to visualize and interact with neural networks in 3D space. Developed using **Unity** and **Python**, this tool allows users to manipulate and observe the behavior of a simple neural network in real-time, leveraging gesture recognition for intuitive interaction.
 
 > **Academic Project**  
