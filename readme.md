@@ -69,7 +69,7 @@ This project utilizes several high-quality assets from the Unity Asset Store to 
 *   **Andrea** - [GitHub Profile](https://github.com/andreaunitn)
 *   **Michele** - [GitHub Profile](https://github.com/lamon22)
 
-For any question regarding the implementation, please open an issue in this repository or contact me at andrea.tomasoni2000@gmail.com.
+For any question regarding the implementation, please open an issue in this repository or contact us at andrea.tomasoni2000@gmail.com - michele.lamon22@gmail.com.
 
 ## 📄 License
 
